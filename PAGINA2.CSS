@@ -1,0 +1,25 @@
+body {
+    margin: 0; 
+    padding: 0; 
+    background-color: #6DDD55; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: padding-top 0.5s ease; 
+    text-align: center;
+  
+}
+
+#ad-container {
+background-color: #f0f0f0;
+padding: 20px;
+margin: 50px auto;
+border-radius: 10px;
+max-width: 600px;
+}
+
+h1 {
+color: #333;
+}
+
+#ad-text {
+font-size: 18px;
+}
